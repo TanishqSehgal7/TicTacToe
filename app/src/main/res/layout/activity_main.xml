@@ -60,7 +60,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_margin="10dp"
-            android:background="@android:color/holo_orange_light"
+            android:background="@android:color/holo_green_light"
             android:textSize="60sp"/>
 
         <Button
@@ -78,7 +78,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_margin="10dp"
-            android:background="@android:color/holo_orange_light"
+            android:background="@android:color/holo_green_light"
             android:textSize="60sp" />
 
     </LinearLayout>
@@ -95,7 +95,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_margin="10dp"
-            android:background="@android:color/holo_orange_light"
+            android:background="@android:color/holo_green_light"
             android:textSize="60sp" />
 
         <Button
@@ -104,7 +104,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_margin="10dp"
-            android:background="@android:color/holo_orange_light"
+            android:background="@android:color/holo_green_light"
             android:textSize="60sp" />
 
         <Button
@@ -113,7 +113,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_margin="10dp"
-            android:background="@android:color/holo_orange_light"
+            android:background="@android:color/holo_green_light"
             android:textSize="60sp" />
 
     </LinearLayout>
@@ -130,7 +130,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_margin="10dp"
-            android:background="@android:color/holo_orange_light"
+            android:background="@android:color/holo_green_light"
             android:textSize="60sp" />
 
         <Button
@@ -139,7 +139,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_margin="10dp"
-            android:background="@android:color/holo_orange_light"
+            android:background="@android:color/holo_green_light"
             android:textSize="60sp" />
 
         <Button
@@ -148,7 +148,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_margin="10dp"
-            android:background="@android:color/holo_orange_light"
+            android:background="@android:color/holo_green_light"
             android:textSize="60sp" />
 
     </LinearLayout>
