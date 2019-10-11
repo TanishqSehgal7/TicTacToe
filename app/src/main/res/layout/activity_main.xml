@@ -18,7 +18,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="30dp"
             android:fontFamily="sans-serif-black"
-            android:text="Player 1: 0"
+            android:text="Player A: 0"
             android:textColor="@android:color/holo_green_light"
             android:textSize="40sp"
             android:padding="1dp"/>
@@ -28,7 +28,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@+id/text_view_p1"
-            android:text="Player 2: 0"
+            android:text="Player B: 0"
             android:textColor="@android:color/holo_green_light"
             android:fontFamily="sans-serif-black"
             android:layout_marginLeft="30dp"
