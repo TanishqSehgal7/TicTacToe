@@ -37,15 +37,17 @@
 
         <Button
             android:id="@+id/button_reset"
-            android:layout_width="100dp"
-            android:layout_height="60dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_centerVertical="true"
             android:layout_marginEnd="33dp"
+            android:background="@drawable/roundbutton"
+            android:text="RESET"
             android:textFontWeight="20000"
             android:textSize="22dp"
-            android:background="@android:color/holo_red_light"
-            android:text="RESET"/>
+
+            />
 
     </RelativeLayout>
     <LinearLayout
