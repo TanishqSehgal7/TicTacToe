@@ -29,7 +29,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/text_view_p1"
             android:text="Player B: 0"
-            android:textColor="@android:color/holo_green_light"
+            android:textColor="@android:color/holo_orange_light"
             android:fontFamily="sans-serif-black"
             android:layout_marginLeft="30dp"
             android:textSize="40sp"
@@ -71,7 +71,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:layout_margin="15dp"
-            android:background="@android:color/holo_orange_light"
+            android:background="@android:color/holo_green_light"
             android:textSize="60sp" />
 
         <Button
